@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UNITY\\Don\u0027t get too cool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6222E8D4-67CC-B76E-3D9D-1EF8A4479AAC}|Assembly-CSharp.csproj|C:\\UNITY\\Don\u0027t get too cool\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6222E8D4-67CC-B76E-3D9D-1EF8A4479AAC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6222E8D4-67CC-B76E-3D9D-1EF8A4479AAC}|Assembly-CSharp.csproj|C:\\UNITY\\Don\u0027t get too cool\\assets\\scripts\\enginemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6222E8D4-67CC-B76E-3D9D-1EF8A4479AAC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enginemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6222E8D4-67CC-B76E-3D9D-1EF8A4479AAC}|Assembly-CSharp.csproj|C:\\UNITY\\Don\u0027t get too cool\\assets\\scripts\\animationcontrollerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6222E8D4-67CC-B76E-3D9D-1EF8A4479AAC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animationcontrollerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6222E8D4-67CC-B76E-3D9D-1EF8A4479AAC}|Assembly-CSharp.csproj|C:\\UNITY\\Don\u0027t get too cool\\assets\\scripts\\enemybehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6222E8D4-67CC-B76E-3D9D-1EF8A4479AAC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemybehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6222E8D4-67CC-B76E-3D9D-1EF8A4479AAC}|Assembly-CSharp.csproj|c:\\unity\\don\u0027t get too cool\\assets\\scripts\\scoremanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6222E8D4-67CC-B76E-3D9D-1EF8A4479AAC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoremanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6222E8D4-67CC-B76E-3D9D-1EF8A4479AAC}|Assembly-CSharp.csproj|C:\\UNITY\\Don\u0027t get too cool\\assets\\scripts\\playercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6222E8D4-67CC-B76E-3D9D-1EF8A4479AAC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6222E8D4-67CC-B76E-3D9D-1EF8A4479AAC}|Assembly-CSharp.csproj|C:\\UNITY\\Don\u0027t get too cool\\assets\\powerupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6222E8D4-67CC-B76E-3D9D-1EF8A4479AAC}|Assembly-CSharp.csproj|solutionrelative:assets\\powerupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6222E8D4-67CC-B76E-3D9D-1EF8A4479AAC}|Assembly-CSharp.csproj|C:\\UNITY\\Don\u0027t get too cool\\assets\\scripts\\attackscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6222E8D4-67CC-B76E-3D9D-1EF8A4479AAC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attackscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6222E8D4-67CC-B76E-3D9D-1EF8A4479AAC}|Assembly-CSharp.csproj|C:\\UNITY\\Don\u0027t get too cool\\assets\\scripts\\enemyspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6222E8D4-67CC-B76E-3D9D-1EF8A4479AAC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6222E8D4-67CC-B76E-3D9D-1EF8A4479AAC}|Assembly-CSharp.csproj|C:\\UNITY\\Don\u0027t get too cool\\assets\\scripts\\scrapfloating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6222E8D4-67CC-B76E-3D9D-1EF8A4479AAC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scrapfloating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6222E8D4-67CC-B76E-3D9D-1EF8A4479AAC}|Assembly-CSharp.csproj|C:\\UNITY\\Don\u0027t get too cool\\assets\\corefloating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6222E8D4-67CC-B76E-3D9D-1EF8A4479AAC}|Assembly-CSharp.csproj|solutionrelative:assets\\corefloating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6222E8D4-67CC-B76E-3D9D-1EF8A4479AAC}|Assembly-CSharp.csproj|C:\\UNITY\\Don\u0027t get too cool\\assets\\scripts\\itemmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6222E8D4-67CC-B76E-3D9D-1EF8A4479AAC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6222E8D4-67CC-B76E-3D9D-1EF8A4479AAC}|Assembly-CSharp.csproj|C:\\UNITY\\Don\u0027t get too cool\\assets\\scripts\\enemycollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6222E8D4-67CC-B76E-3D9D-1EF8A4479AAC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemycollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyBehaviour.cs",
+              "DocumentMoniker": "C:\\UNITY\\Don\u0027t get too cool\\Assets\\Scripts\\EnemyBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyBehaviour.cs",
+              "ToolTip": "C:\\UNITY\\Don\u0027t get too cool\\Assets\\Scripts\\EnemyBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:31:51.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnimationControllerScript.cs",
+              "DocumentMoniker": "C:\\UNITY\\Don\u0027t get too cool\\Assets\\Scripts\\AnimationControllerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AnimationControllerScript.cs",
+              "ToolTip": "C:\\UNITY\\Don\u0027t get too cool\\Assets\\Scripts\\AnimationControllerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AnimationControllerScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T19:21:36.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "engineManager.cs",
+              "DocumentMoniker": "C:\\UNITY\\Don\u0027t get too cool\\Assets\\Scripts\\engineManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\engineManager.cs",
+              "ToolTip": "C:\\UNITY\\Don\u0027t get too cool\\Assets\\Scripts\\engineManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\engineManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:34:58.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\UNITY\\Don\u0027t get too cool\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\UNITY\\Don\u0027t get too cool\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:59:07.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScoreManagerScript.cs",
+              "DocumentMoniker": "C:\\UNITY\\Don\u0027t get too cool\\Assets\\Scripts\\ScoreManagerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreManagerScript.cs",
+              "ToolTip": "C:\\UNITY\\Don\u0027t get too cool\\Assets\\Scripts\\ScoreManagerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreManagerScript.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T18:53:23.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerCollision.cs",
+              "DocumentMoniker": "C:\\UNITY\\Don\u0027t get too cool\\Assets\\Scripts\\PlayerCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCollision.cs",
+              "ToolTip": "C:\\UNITY\\Don\u0027t get too cool\\Assets\\Scripts\\PlayerCollision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerCollision.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T21:23:30.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "powerUpManager.cs",
+              "DocumentMoniker": "C:\\UNITY\\Don\u0027t get too cool\\Assets\\powerUpManager.cs",
+              "RelativeDocumentMoniker": "Assets\\powerUpManager.cs",
+              "ToolTip": "C:\\UNITY\\Don\u0027t get too cool\\Assets\\powerUpManager.cs",
+              "RelativeToolTip": "Assets\\powerUpManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:34:04.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemySpawn.cs",
+              "DocumentMoniker": "C:\\UNITY\\Don\u0027t get too cool\\Assets\\Scripts\\EnemySpawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemySpawn.cs",
+              "ToolTip": "C:\\UNITY\\Don\u0027t get too cool\\Assets\\Scripts\\EnemySpawn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemySpawn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T21:05:24.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ItemMenu.cs",
+              "DocumentMoniker": "C:\\UNITY\\Don\u0027t get too cool\\Assets\\Scripts\\ItemMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemMenu.cs",
+              "ToolTip": "C:\\UNITY\\Don\u0027t get too cool\\Assets\\Scripts\\ItemMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T19:24:43.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "attackScript.cs",
+              "DocumentMoniker": "C:\\UNITY\\Don\u0027t get too cool\\Assets\\Scripts\\attackScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\attackScript.cs",
+              "ToolTip": "C:\\UNITY\\Don\u0027t get too cool\\Assets\\Scripts\\attackScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\attackScript.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAASwC4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T19:18:31.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "scrapFloating.cs",
+              "DocumentMoniker": "C:\\UNITY\\Don\u0027t get too cool\\Assets\\Scripts\\scrapFloating.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\scrapFloating.cs",
+              "ToolTip": "C:\\UNITY\\Don\u0027t get too cool\\Assets\\Scripts\\scrapFloating.cs",
+              "RelativeToolTip": "Assets\\Scripts\\scrapFloating.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T19:42:11.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "coreFloating.cs",
+              "DocumentMoniker": "C:\\UNITY\\Don\u0027t get too cool\\Assets\\coreFloating.cs",
+              "RelativeDocumentMoniker": "Assets\\coreFloating.cs",
+              "ToolTip": "C:\\UNITY\\Don\u0027t get too cool\\Assets\\coreFloating.cs",
+              "RelativeToolTip": "Assets\\coreFloating.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T19:47:02.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EnemyCollision.cs",
+              "DocumentMoniker": "C:\\UNITY\\Don\u0027t get too cool\\Assets\\Scripts\\EnemyCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyCollision.cs",
+              "ToolTip": "C:\\UNITY\\Don\u0027t get too cool\\Assets\\Scripts\\EnemyCollision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyCollision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:45:39.773Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

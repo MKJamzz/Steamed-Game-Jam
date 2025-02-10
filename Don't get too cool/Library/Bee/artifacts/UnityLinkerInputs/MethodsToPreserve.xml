@@ -1,0 +1,76 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="attackScript">
+			<method name="increaseAttackSpeed"/>
+			<method name="increaseAttackSpeed"/>
+		</type>
+		<type fullname="engineManager">
+			<method name="buyNextLevel"/>
+			<method name="buyTime"/>
+			<method name="buyTime"/>
+			<method name="buyTime"/>
+			<method name="buyTime"/>
+			<method name="exitMenu"/>
+			<method name="exitMenu"/>
+			<method name="fixMachine"/>
+			<method name="forge"/>
+			<method name="forge"/>
+			<method name="forge"/>
+			<method name="forge"/>
+			<method name="freezeTimer"/>
+			<method name="freezeTimer"/>
+			<method name="freezeTimer"/>
+			<method name="freezeTimer"/>
+		</type>
+		<type fullname="PlayerMovement">
+			<method name="increaseJump"/>
+			<method name="increaseJump"/>
+			<method name="increaseSpeed"/>
+			<method name="increaseSpeed"/>
+		</type>
+		<type fullname="powerUpManager">
+			<method name="exitMenu"/>
+			<method name="exitMenu"/>
+			<method name="exitMenu"/>
+			<method name="exitMenu"/>
+			<method name="exitMenu"/>
+			<method name="exitMenu"/>
+		</type>
+		<type fullname="SceneLoader">
+			<method name="ExitGame"/>
+			<method name="ExitGame"/>
+			<method name="LoadHomeBase"/>
+			<method name="LoadHomeBase"/>
+		</type>
+		<type fullname="ScoreManagerScript">
+			<method name="buyScrap"/>
+			<method name="buyScrap"/>
+		</type>
+	</assembly>
+	<assembly fullname="Unity.RenderPipelines.Core.Runtime" ignoreIfMissing="1">
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerButton">
+			<method name="OnAction"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerIntField">
+			<method name="OnDecrement"/>
+			<method name="OnDecrement"/>
+			<method name="OnIncrement"/>
+			<method name="OnIncrement"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerObjectPopupField">
+			<method name="OnDecrement"/>
+			<method name="OnIncrement"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerPanel">
+			<method name="OnScrollbarClicked"/>
+			<method name="OnScrollbarClicked"/>
+			<method name="ResetDebugManager"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerUIntField">
+			<method name="OnDecrement"/>
+			<method name="OnDecrement"/>
+			<method name="OnIncrement"/>
+			<method name="OnIncrement"/>
+		</type>
+	</assembly>
+</linker>
